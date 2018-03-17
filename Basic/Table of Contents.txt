@@ -1,0 +1,4 @@
+Table of contents
+1) Hello World (Learnings: How to?, Print text)
+2) Simple Interest Calculator (Learnings: Get an Input from user, Assigning variables)
+3) Fibonacci Series (Assigning multiple variables in one line, Creating functions, Invoking functions, Using Docstring
